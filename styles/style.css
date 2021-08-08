@@ -16,7 +16,7 @@ main {
   margin: 0;
 }
 #container {
-  --gap: 1px;
+  --gap: 2px;
   padding: 50px;
   margin: 0;
   height: 100%;
@@ -34,7 +34,7 @@ main {
   /* width: 5vmax;
   height: 5vmax; */
   transition: background-color 0.2s;
-  box-shadow: 1% 1% 1% 1% rgba(0, 0, 0, 0.4);
+  /* box-shadow: 1% 1% 1% 1% rgba(0, 0, 0, 0.4); */
   box-s
 }
 
